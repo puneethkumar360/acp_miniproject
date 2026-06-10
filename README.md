@@ -58,17 +58,6 @@ Draws a triangle by connecting three points using lines.
   * stdio.h
   * stdlib.h
 
-## How to Compile
-
-```bash
-gcc project.c -o project
-```
-
-## How to Run
-
-```bash
-./project
-```
 
 ## Sample Menu
 
